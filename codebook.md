@@ -38,9 +38,12 @@ The following steps describe all tasks executed by script run_analysis.r
 1. Read train and test files. 
 2. Read Subject files.
 3. Read Activity files
-4. Exclude all measurements different from mean and standard deviation Rename column names 
-5. Join all data sets: train, test, subject and activities 
-6. Create a melt data set using as ids the subject and activities and as variables the difference between ids and the rest of the dataset Find a mean per subject and activity Save the data in a textfile.
+4. Exclude all measurements different from mean and standard deviation 
+5. Rename column names 
+6. Join all data sets: train, test, subject and activities 
+6. Create a melt data set using as ids the subject and activities and as variables the difference between ids and the rest of the dataset
+7. Find a mean per subject and activity 
+8. Save the data in a textfile.
 
 
 
