@@ -11,8 +11,8 @@ Full description of data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+
 ##Files Available in this Repository
 
 * run_analysis – code used for transform the data 
-* codebook – file describing variables and data 
-* readme – this file
+* codebook – file describing variables, transformations and data (this file)
+* readme – basic information about the repository and project
 
 ## List of Data Used:
 
