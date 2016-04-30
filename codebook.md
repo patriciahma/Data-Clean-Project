@@ -20,7 +20,8 @@ Full description of data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+
 * test sets (x_test and y_test). y_test contains the id of activities from x_test
 * features: contains the features
 * features_info: all info about features
-* activity_labels: the name of each one of six activities used in the datasets.
+* activity_labels: the name of each one of the six activities used in the datasets.
+* subject_train and subject_test: Number of each one of the subjects in train and test datasets respectively
 
 
 ##Tasks:
